@@ -9,5 +9,6 @@ void myFunc(int n){
 int main(){
 	int input;
 	scanf("%d", &input);
+	
 	myFunc(input);
 }
